@@ -9,3 +9,6 @@ This project demonstrates how to integrate **Katalon Studio** test cases with **
 - Jenkins job configuration for Katalon command-line execution
 
 ## 🛠 Tools & Technologies
+
+
+vvvKatalon & Jenkins IntegrationKatalon & Jenkins IntegrationKatalon & Jenkins IntegrationKatalon & Jenkins Integration
